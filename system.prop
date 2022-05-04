@@ -1,0 +1,7 @@
+ro.display.series=Samsung Galaxy F62
+ro.product.board=exynos9825
+ro.board.platform=universal9825_r
+sys.usb.controller=10c00000.dwc3
+ro.boot.usbcontroller=10c00000.dwc3
+ro.boot.dynamic_partitions=true
+ro.boot.boot_devices=13d60000.ufs
