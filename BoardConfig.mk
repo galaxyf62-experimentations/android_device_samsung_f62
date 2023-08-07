@@ -57,7 +57,7 @@ TARGET_BOARD_PLATFORM_GPU := mali-g76
 TARGET_PREBUILT_KERNEL := device/samsung/f62/prebuilt/Image
 TARGET_PREBUILT_DTB := device/samsung/f62/prebuilt/dtb
 BOARD_PREBUILT_DTBOIMAGE := device/samsung/f62/prebuilt/recovery_dtbo
-BOARD_INCLUDE_DTB_IN_BOOTIMG := true
+# BOARD_INCLUDE_DTB_IN_BOOTIMG := true
 BOARD_INCLUDE_RECOVERY_DTBO := true
 TARGET_KERNEL_ARCH := arm64
 
